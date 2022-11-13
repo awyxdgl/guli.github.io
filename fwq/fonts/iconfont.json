@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1122207",
+      "name": "发布标书",
+      "font_class": "fabubiaoshu",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "1471615",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "4608568",
+      "name": "赞助商,钻石",
+      "font_class": "iconzhengli-",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "4936984",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e882",
+      "unicode_decimal": 59522
+    },
+    {
+      "icon_id": "22908376",
+      "name": "品牌标识_QQ群",
+      "font_class": "pinpaibiaoshi_QQqun",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    }
+  ]
+}
